@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon3229.ttf?bf99fae6f2df2bbd9e7e191822051923") format("truetype"),
+url("../fonts/flaticon3229.woff?bf99fae6f2df2bbd9e7e191822051923") format("woff"),
+url("../fonts/flaticon3229.woff2?bf99fae6f2df2bbd9e7e191822051923") format("woff2"),
+url("../fonts/flaticon3229.eot?bf99fae6f2df2bbd9e7e191822051923#iefix") format("embedded-opentype"),
+url("../fonts/flaticon3229.svg?bf99fae6f2df2bbd9e7e191822051923#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-logistbiz-icon-"]:before {
+    font-family: "flaticon" !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-logistbiz-icon-storage:before {
+    content: "\f101";
+}
+.pbmit-logistbiz-icon-delivery-timer:before {
+    content: "\f102";
+}
+.pbmit-logistbiz-icon-umbrella:before {
+    content: "\f103";
+}
+.pbmit-logistbiz-icon-ocean-transportation:before {
+    content: "\f104";
+}
+.pbmit-logistbiz-icon-delivery-in-hand:before {
+    content: "\f105";
+}
+.pbmit-logistbiz-icon-worldwide-delivery:before {
+    content: "\f106";
+}
+.pbmit-logistbiz-icon-opened-packaged:before {
+    content: "\f107";
+}
+.pbmit-logistbiz-icon-call-center:before {
+    content: "\f108";
+}
+.pbmit-logistbiz-icon-container-hanging:before {
+    content: "\f109";
+}
+.pbmit-logistbiz-icon-air-transport:before {
+    content: "\f10a";
+}
+.pbmit-logistbiz-icon-trolley:before {
+    content: "\f10b";
+}
+.pbmit-logistbiz-icon-package-on-rolling-transport:before {
+    content: "\f10c";
+}
+.pbmit-logistbiz-icon-smartphone-online-track:before {
+    content: "\f10d";
+}
+.pbmit-logistbiz-icon-package-3:before {
+    content: "\f10e";
+}
+.pbmit-logistbiz-icon-container-hanging-1:before {
+    content: "\f10f";
+}
+.pbmit-logistbiz-icon-barcode-scan:before {
+    content: "\f110";
+}
+.pbmit-logistbiz-icon-fragile-pack:before {
+    content: "\f111";
+}
+.pbmit-logistbiz-icon-delivery-check:before {
+    content: "\f112";
+}
+.pbmit-logistbiz-icon-fast-delivery:before {
+    content: "\f113";
+}
+.pbmit-logistbiz-icon-delivery-scale:before {
+    content: "\f114";
+}
+.pbmit-logistbiz-icon-on-door-delivery:before {
+    content: "\f115";
+}
+.pbmit-logistbiz-icon-delivery-search:before {
+    content: "\f116";
+}
+.pbmit-logistbiz-icon-train:before {
+    content: "\f117";
+}
+.pbmit-logistbiz-icon-truck:before {
+    content: "\f118";
+}
+.pbmit-logistbiz-icon-credit-card-1:before {
+    content: "\f119";
+}
+.pbmit-logistbiz-icon-credit-card-2:before {
+    content: "\f11a";
+}
+.pbmit-logistbiz-icon-planet-earth:before {
+    content: "\f11b";
+}
+.pbmit-logistbiz-icon-check:before {
+    content: "\f11c";
+}
+.pbmit-logistbiz-icon-call:before {
+    content: "\f11d";
+}
+.pbmit-logistbiz-icon-envelope:before {
+    content: "\f11e";
+}
+.pbmit-logistbiz-icon-call-1:before {
+    content: "\f11f";
+}
+.pbmit-logistbiz-icon-clock:before {
+    content: "\f120";
+}
+.pbmit-logistbiz-icon-download:before {
+    content: "\f121";
+}
